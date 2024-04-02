@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jay</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_image">imageActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
